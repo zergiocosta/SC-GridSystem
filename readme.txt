@@ -18,22 +18,22 @@ It is a 12 columns Grid System (from 1 to 12, where 12 is 100% width).
 Made with SASS
 
 Just:
-1. Upload the folder `sc-gridsystem` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place the shortcode '[sc_gs_{n}]' (Where {n} is your column size from 1 to 12)
-4. Add you content (could be whatever you want), right after opening the shortcode above
-5. Close the column element by adding '[/sc_gs_{n}]' at the end of the content you want to show inside the column element wherever you want, in your pages/posts
-6. Enjoy!
+* 1. Upload the folder `sc-gridsystem` to the `/wp-content/plugins/` directory
+* 2. Activate the plugin through the 'Plugins' menu in WordPress
+* 3. Place the shortcode '[sc_gs_{n}]' (Where {n} is your column size from 1 to 12)
+* 4. Add you content (could be whatever you want), right after opening the shortcode above
+* 5. Close the column element by adding '[/sc_gs_{n}]' at the end of the content you want to show inside the column element wherever you want, in your pages/posts
+* 6. Enjoy!
 
 == Installation ==
 
 Just:
-1. Upload the folder `sc-gridsystem` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place the shortcode '[sc_gs_{n}]' (Where {n} is your column size from 1 to 12)
-4. Add you content (could be whatever you want), right after opening the shortcode above
-5. Close the column element by adding '[/sc_gs_{n}]' at the end of the content you want to show inside the column element wherever you want, in your pages/posts
-6. Enjoy!
+* 1. Upload the folder `sc-gridsystem` to the `/wp-content/plugins/` directory
+* 2. Activate the plugin through the 'Plugins' menu in WordPress
+* 3. Place the shortcode '[sc_gs_{n}]' (Where {n} is your column size from 1 to 12)
+* 4. Add you content (could be whatever you want), right after opening the shortcode above
+* 5. Close the column element by adding '[/sc_gs_{n}]' at the end of the content you want to show inside the column element wherever you want, in your pages/posts
+* 6. Enjoy!
 
 == Frequently Asked Questions ==
 
