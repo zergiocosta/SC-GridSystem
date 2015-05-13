@@ -25,6 +25,9 @@ It is a 12 columns Grid System (from 1 to 12, where 12 is 100% width)
 /* Where {n} is your column size from 1 to 12 and {{content}} could be whatever you want to show inside the column element */
 ```
 
+### Download from WordPress plugins repository
+[SC GridSystem - You can download from the WordPress Plugins Repository](https://wordpress.org/plugins/sc-gridsystem/)
+
 
 ## License
 [![WTFPL](wtfpl-badge.png "WTFPL")](https://github.com/zergiocosta/SC-GridSystem/blob/master/LICENSE)
