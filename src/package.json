@@ -1,7 +1,7 @@
 {
   "name": "sc-grid-system",
   "version": "0.1.0",
-  "description": "A WordPress plugin where you can menage column sizes with shortcodes.",
+  "description": "A WordPress plugin where you can manage column sizes with shortcodes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

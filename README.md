@@ -1,7 +1,7 @@
 # SC Grid System 
 #### Made with SASS 
 
-A WordPress plugin where you can menage column sizes with shortcodes.
+A WordPress plugin where you can manage column sizes with shortcodes.
 It is a 12 columns Grid System (from 1 to 12, where 12 is 100% width)
 
 
