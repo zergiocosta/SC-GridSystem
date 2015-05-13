@@ -1,14 +1,14 @@
 {
-  "name": "study-grid-system",
+  "name": "sc-grid-system",
   "version": "0.1.0",
-  "description": "studying sass",
+  "description": "A WordPress plugin where you can menage column sizes with shortcodes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "Study - Grid System"
+    "url": "https://github.com/zergiocosta/SC-GridSystem"
   },
   "keywords": [
     "grid",
